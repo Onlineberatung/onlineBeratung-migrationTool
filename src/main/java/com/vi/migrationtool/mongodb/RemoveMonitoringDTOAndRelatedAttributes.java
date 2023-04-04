@@ -1,6 +1,5 @@
 package com.vi.migrationtool.mongodb;
 
-
 import com.vi.migrationtool.common.MigrationTasks;
 import com.vi.migrationtool.config.BeanAwareSpringLiquibase;
 import com.vi.migrationtool.mongodb.model.ConsultingTypeEntity;
